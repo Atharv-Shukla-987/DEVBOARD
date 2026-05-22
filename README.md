@@ -1,5 +1,8 @@
 # DEVBOARD
 
+ ## COMPONENTS
+#### RP2040
+ 
  ## SCHEMATICS
  I have designed this devboard using kicad. Here are some images
 
