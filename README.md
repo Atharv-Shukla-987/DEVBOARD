@@ -1,4 +1,11 @@
 # DEVBOARD
+It is devboard made with the help of rp2040 . I try to make it as compact as possible  thus it is a square shaped devboard .It also have many gpio pins. It has following features
+
+##### It has usb C port
+##### It has 16MB external QSPI flash
+##### It has 1 VBUS , 3v3 and Clock pins 
+##### It has 29 gpio pins
+##### It has tactile push button for reset
 
  ## COMPONENTS
 #### RP2040
