@@ -2,6 +2,14 @@
 
  ## COMPONENTS
 #### RP2040
+#### MCP1700x-3.3V LDO Regulator (TO-92)
+#### W25Q128JVS — 128Mb SPI Flash (SOIC-8)
+#### 12 MHz Crystal Oscillator
+#### USB-C Receptacle
+#### Pin HeaderS
+#### Tactile Push Button
+#### Capacitors
+#### Resistors
  
  ## SCHEMATICS
  I have designed this devboard using kicad. Here are some images
